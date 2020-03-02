@@ -3,3 +3,4 @@ opencv upto extracting frames from live videofeed
 database to have record of vehicles
 
 using tesseract for text extraction
+finally done
