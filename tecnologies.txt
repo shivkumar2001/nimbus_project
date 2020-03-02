@@ -4,3 +4,4 @@ database to have record of vehicles
 
 using tesseract for text extraction
 use mysql as well
+finally done
