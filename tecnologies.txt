@@ -1,3 +1,5 @@
 python basics
-opencv upto extracting frames from  live videofeed
+opencv upto extracting frames from live videofeed
 database to have record of vehicles
+
+using tesseract for text extraction
